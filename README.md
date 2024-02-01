@@ -1,10 +1,10 @@
-# Who am i?
+<h1 align="left">Who am i?</h1>
 
 <img src="https://github.com/Mojtaba-Khodabandehloo/Mojtaba-Khodabandehloo/assets/158219821/a008a9a6-3bf5-4844-90e4-07f033231d39" alt="Just for fun ;)">
 
-<h2 align="center"> 👋 Hello, I am Mojtaba Khodabandehloo 👨‍💻 </h2>
+<h2 align="left"> 👋Hello, I'm Mojtaba Khodabandehloo👨‍💻 </h2>
 
-<p align="center">Python programmer 🐍 and Love the world of computers 💻</p>
+<p align="left">Python programmer 🐍 and Love the world of computers 💻</p>
 
 <h2 align="left">⚙️🤹‍♂️ The skills and tools I use: </h2>
 
